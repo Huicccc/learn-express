@@ -5,6 +5,7 @@
 - Run `npm install` from `client/`.
 
 To run any server use `node /path/to/server` from the project root.
+- Run `npm start` from `client/`.
 
 ## For You to Do
 
