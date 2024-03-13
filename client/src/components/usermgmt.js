@@ -107,7 +107,8 @@ const UserManagement = () => {
   };
 
   return (
-      <div><h1> User Management </h1>
+      <div>
+        <h1> User Management </h1>
         <button onClick={getAllUsernames}>View All Usernames</button>
         <button onClick={handleClickNewUser}>Add New User</button>
         <button onClick={handleSearchForm}> Search User</button>
